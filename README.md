@@ -89,5 +89,22 @@ The application will be available at `http://localhost:3000`.
 - `data/`: This directory contains data files.
     - `books.json`: This file contains data for books.
 
+## Contributing
 
+I appreciate all contributions. If you're planning to contribute back bug fixes or features, please follow these steps:
 
+1. **Fork** the repo on GitHub
+2. **Clone** the project to your local machine
+3. **Commit** changes to your own branch
+4. **Push** your work back up to your fork
+5. Submit a **Pull request** so that I can review your changes
+
+NOTE: Be sure to merge the latest from "upstream" before making a pull request!
+
+### Reporting Issues
+
+If you find a bug or a mistake, you can help me by [reporting the issue](https://github.com/ProcrastinatorMuffin/NextJS-Online-Library/issues) on GitHub.
+
+### Submitting Pull Requests
+
+You can contribute by fixing existing issues or proposing new features. When you're ready to submit your changes, you can send me a [Pull Request](https://github.com/ProcrastinatorMuffin/NextJS-Online-Library/pulls).
