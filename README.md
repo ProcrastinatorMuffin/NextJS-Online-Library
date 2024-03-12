@@ -16,7 +16,7 @@ To run the app in your local environment, follow these steps:
 
 1. Clone the repository: 
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/ProcrastinatorMuffin/NextJS-Online-Library
     ```
 2. Navigate to the project directory: 
     ```bash
@@ -41,7 +41,7 @@ Follow these steps:
 
 1. Clone the repository: 
     ```bash
-        git clone https://github.com/your-username/your-repo.git
+        git clone https://github.com/ProcrastinatorMuffin/NextJS-Online-Library
     ```
 2. Navigate to the project directory: 
     ```bash
@@ -64,11 +64,11 @@ If you prefer to pull the Docker container directly from Docker Hub, follow thes
 
 1. Pull the Docker image: 
     ```bash
-    docker pull your-username/your-repo
+    docker pull danilsholudko/online-lib-next-app
     ```
 2. Run the Docker container: 
     ```bash
-    docker run -p 3000:3000 your-username/your-repo
+    docker run -p 3000:3000 danilsholudko/online-lib-next-app
     ```
 
 The application will be available at `http://localhost:3000`.
